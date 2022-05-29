@@ -1,5 +1,9 @@
 About The Project
-There are many great streaming services to watch movies online in today’s day and age. I have built the Movie Recommender System using Content based filtering. To iteratively build the best Movie Recommendation System that asks you what type of movie you would like to watch, and tell you what you should be watching in an intrusive way.
+There are many great streaming services to watch movies online in today’s day and age.
+I have built the Movie Recommender System using Content based filtering.
+To iteratively build the best Movie Recommendation System that asks you what type of movie you would like to watch, and tell you what you should be watching in an intrusive way.
+
+LINK TO MY PROJECT (deployed on heroku): https://sahilll-mrs.herokuapp.com/
 
 
 Features of The Recommender System:
@@ -10,33 +14,37 @@ Features of The Recommender System:
 
 link to the backend file :https://drive.google.com/file/d/1tZJby0NZygVRY0L3_pvy7-vpd7HA9pxv/view?usp=sharing (I was not able to add it to the repository due to its large size)
 
-There are many great streaming services to watch movies online in today’s day and age. I have built the Movie Recommender System using Content based filtering. To iteratively build the best Movie Recommendation System that asks you what type of movie you would like to watch, and tell you what you should be watching in an intrusive way.
 
-Features of The Recommender System:
-•	Fast and Seamless with a catalogue of 5000+ movies to boot
 
-•	Integration with TMDB API allows you quicky read up the entire summary from IMDB itself
 
 
 Built With
 This project is built with :
+
 •	Bootstrap 5
+
 •	JQuery
+
 •	Streamlit
+
 •	Pandas
+
 •	Numpy
+
 •	Pickle
+
 •	nltk
+
 •	sklearn
 
 
 Getting Started:
 We can clone the entire project To get a local copy up and running follow these simple example steps.
+
 Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
-•	pip
 
-python -m pip install –upgrade pip
+•	python -m pip install –upgrade pip
 
 Installation
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
